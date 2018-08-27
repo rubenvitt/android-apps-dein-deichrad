@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dein Deichrad</string>
+    <string name="title_home">Start</string>
+    <string name="title_dashboard">Buchen</string>
+    <string name="title_notifications">News</string>
+    <string name="no_internet">Es wurde keine Netzwerkverbindung gefunden.\nStelle eine Verbindung zum Internet her, um
+        diese App nutzen zu können.
+    </string>
+    <string name="no_internetTitle">Verbindungsproblem</string>
+    <string name="ok">Verstanden</string>
+    <string name="title_myBookings">Meine Buchungen</string>
+</resources>
